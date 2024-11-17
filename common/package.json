@@ -1,0 +1,16 @@
+{
+  "name": "@hrushikeshreddy/blog-common",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hrushikeshreddy/blog-common": "^1.0.2",
+    "zod": "^3.23.8"
+  }
+}
