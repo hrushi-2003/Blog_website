@@ -41,7 +41,7 @@ userRouter.post("/signup", async (c) => {
     return c.text(jwt);
   } catch (e) {
     c.status(411);
-    return c.json({ e });
+    return c.json({ e ,message:"hello"});
   }
 });
 
@@ -83,3 +83,4 @@ userRouter.post("/login", async (c) => {
     return c.json({ error: "error while signing up" });
   }
 });
+
