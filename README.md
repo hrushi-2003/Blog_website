@@ -1,1 +1,1 @@
-Link to website [Link Text]([URL](https://blog-website-site.vercel.app/signup))
+Link to website (https://blog-website-site.vercel.app/signup)
