@@ -36,8 +36,11 @@ const Blogs = () => {
             />
           ))}
         </div>
-        <div className="sticky top-0 ">
-          <h1>hello</h1>
+        <div className="sticky bg-gray-300 flex flex-col justify-center">
+          <h1 className="text-8xl text-center">CREATE</h1>
+          <h1 className="text-8xl text-center">YOUR</h1>
+          <h1 className="text-8xl text-center">BLOG</h1>
+          <h1 className="text-8xl text-center">TODAY</h1>
         </div>
       </div>
     </div>
