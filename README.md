@@ -1,1 +1,1 @@
-Link to website (https://blog-website-site.vercel.app/signup)
+Link to website (https://blog-website-one-wheat.vercel.app/signup)
